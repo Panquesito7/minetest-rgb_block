@@ -1,7 +1,7 @@
 --[[
 Adds an animated RGB Block in your Minetest.
 
-Copyright (C) 2021 David Leal (halfpacho@gmail.com)
+Copyright (C) 2021-2023 David Leal (halfpacho@gmail.com)
 Copyright (C) Various other Minetest developers/contributors
 
 This library is free software; you can redistribute it and/or

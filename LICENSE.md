@@ -25,7 +25,7 @@ For more details:\
 
 ## License for source code
 
-Copyright (C) 2021 [David Leal](https://github.com/Panquesito7) (halfpacho@gmail.com)\
+Copyright (C) 2021-2023 [David Leal](https://github.com/Panquesito7) (halfpacho@gmail.com)\
 Copyright (C) Various other Minetest developers/contributors
 
                  GNU LESSER GENERAL PUBLIC LICENSE
