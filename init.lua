@@ -31,5 +31,5 @@ minetest.register_node("rgb_block:rgb_block", {
 	sunlight_propagates = true,
 	light_source = 8,
 	paramtype = "light",
-	sounds = default.node_sound_stone_defaults(),
+	sounds = default and default.node_sound_stone_defaults(),
 })
