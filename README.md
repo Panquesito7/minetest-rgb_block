@@ -2,7 +2,7 @@
 
 Adds a simple RGB animated block to Minetest.
 
-![image](https://raw.githubusercontent.com/Panquesito7/rgb_block/master/screenshot.png)
+![image](https://raw.githubusercontent.com/Panquesito7/minetest-rgb_block/master/screenshot.png)
 
 ## Installation
 
@@ -20,4 +20,4 @@ For further information or help, see:\
 
 ## License
 
-See the [`LICENSE.md`](https://github.com/Panquesito7/rgb_block/blob/master/LICENSE.md) file for more information.
+See the [`LICENSE.md`](https://github.com/Panquesito7/minetest-rgb_block/blob/master/LICENSE.md) file for more information.
