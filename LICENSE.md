@@ -1,6 +1,6 @@
 # License for textures/media
 
-Copyright (C) 2021 [GalaxyStarYT2020](https://github.com/GalaxyStarYT2020) (known as GalaxyStar).\
+Copyright (C) 2021 [XGalaxyPlqyZ](https://github.com/XGalaxyPlqyZ) (known as GalaxyStar).\
 `rgb_block_rgb_block.png` is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license statement
